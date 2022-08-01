@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-![Ira Bell](https://github.com/IraLeeBell/IraLeeBell/blob/main/irabell.jpg)
+![Ira Bell](https://github.com/IraLeeBell/IraLeeBell/blob/main/irabell.jpg  | width=50)
 
 <!--
 **IraLeeBell/IraLeeBell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
