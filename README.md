@@ -3,5 +3,5 @@
 ### Hello World! 👋
 
 Linkedin: https://www.linkedin.com/in/irabell/
-<b>
+<br />
 Personal Website: https://www.irabell.com
